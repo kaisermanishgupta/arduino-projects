@@ -25,7 +25,6 @@ These projects cover basic electronics, sensors, automation, embedded systems, a
 | **NodeMCU – Home Automation System** | IoT-based home automation system using NodeMCU and Blynk. |
 | **Servo Control** | Controls a servo motor using Arduino. |
 | **Servo Control without Library** | Servo motor control implemented without using a dedicated servo library. |
-| **Single Light Control BT** | Bluetooth-based control of a single light. |
 | **Temperature & Humidity LCD (DHT11)** | Displays temperature and humidity readings from a DHT11 sensor on an LCD. |
 | **Temperature Monitor (LM35)** | Temperature monitoring using an LM35 temperature sensor. |
 
